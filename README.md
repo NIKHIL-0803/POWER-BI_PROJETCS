@@ -30,3 +30,5 @@ Inventory Monitoring
 Risk Level Tracking
 Reorder Point Analysis
 Stock Availability Analysis
+LinkedIn: www.linkedin.com/in/nikhil-bhingare-2b835728b
+Email: bhingarenikhil8@gmail.com
